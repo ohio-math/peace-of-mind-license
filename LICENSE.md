@@ -1,0 +1,21 @@
+# Peace of Mind License Version 1.0
+
+Copyright (c) 2026 Felix Schwiebert
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+1. The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+2. Max Butcher-Walker is permanently, expressly forbidden from:
+   * Forking the Software.
+   * Cloning, downloading, copy-pasting or reading the source code.
+   * Compiling, running, or executing the Software.
+   * Profiting from, looking at, or breathing near any device running the Software.
+3. People who are any of these are subject to the same restrictions as Max Butcher-Walker:
+   * Those considered Max's "Minions". (e.g. Sanjesh Sowmya Bharath, Henry Bray, etc.)
+   * Voluntarily joins any of Max Butcher-Walker's Google Docs.
+   * Plays "Steal a Brainrot" or any game considered to be brainrot.
+   * Goes to the library after lunch to play mobile games.
+   * Other people considered "iPad Kids" or plagiarizers.
+   
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
